@@ -1,3 +1,10 @@
+![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?logo=scikitlearn)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![Clustering](https://img.shields.io/badge/Model-KMeans-informational)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
+
 # Kmeans_Clustering-on-School_data
 This project applies K-Means clustering to group schools based on infrastructure, student–teacher ratio, classrooms, and a Digital Readiness Index (DRI). The model identifies distinct school clusters to support data-driven planning, resource allocation, and Digital Twin–based educational insights.
 
