@@ -68,3 +68,7 @@ EduTwin-KMeans/
 1. Sensitivity of K-Means to feature scaling
 2. Limited accuracy of some real-world data points
 3. Spatial data not suitable for direct clustering
+
+## 📸 Screenshots & Visual Outputs
+![Elbow Method](visuals/elbow_curve.png)
+
